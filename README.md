@@ -1,10 +1,11 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# DES INV 202 Journal
+Welcome to my new GitHub repository! 
 
 # Outline
+week 2
+
 [week 1](README.md#week-1-Intro-to-TDF)
 
-week 2
 
 ---
 # Week 1: Intro to TDF #
