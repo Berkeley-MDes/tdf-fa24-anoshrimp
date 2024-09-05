@@ -22,20 +22,19 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Week 1: Intro to TDF #
 ## Week of 08/29/2024
 
-This week is the first week of school. I took my first TDF class in the MDes program and was introduced to many new tools and new concepts. I learned about the skills required for this class, the projects we are going to work on (including the levels of expectation), the tools that we will learn (Rhino, Grasshopper, Particle IDE, etc). 
+This week is the first week of school. I took my first TDF class in the MDes program and was introduced to many new tools and new concepts. I learned about the skills required for this class, the projects we are going to work on (including the levels of expectation), the tools that we will learn (Rhino, Grasshopper, Particle IDE, etc). I explored each tool for a bit after I got home to get a basic sense of what these are like. For now, I am both excited and concerned about moving forward with new tools to learn. I am looking forward to trying out new things and expand my skill set. I also really want to see my creations come into life. I am a bit concerned about how steep the learning curve is going to get for these platforms, especially for Rhino. Given that I have 0 experience in this area, I might need to really spend much time on becoming familiar with such softwares. 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+Apart from that, I opened up my github account and completed some trainings for using the equioments at Jacobs. Still trying to familiarize myself with the new environment and new workflow at Berkeley.
+
+<img width="500" alt="New github account" src="assets/ghub.png"> <img width="200" alt="Studio space" src="assets/studio.jpg">
+
+My speculation for the coming weeks is pretty optimistic. For the tools being used in the TDF class, I expect them to be accessible and easier to use as I engage with them over time. I don't really expect tools to evolve or we change tools over this semester, but I am willing to learn about what tools can help with the product design/software learning process. There wasn't any work done this week. I expect to try out the machines in the studio more often, and expect to create products of high quality. For projects that I am not familiar with, I expect to make something that reflects my maximal effort. 
+
+*I found an article about digital ecosystem and I feel like it ties to our second project. Creating open platforms for sharing and collaboration is definitely a future trend and therefore I think our 2nd project will equip me sufficient skills to get ready for the future.
+
+[Link to article](https://www.reuters.com/technology/google-meta-qualcomm-team-up-push-open-digital-ecosystems-2023-12-13/)
 
 ---
-
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
 
 # Week 1: Example Report 1 #
 ## Week of 09/05/2024
