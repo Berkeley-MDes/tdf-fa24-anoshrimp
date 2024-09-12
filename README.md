@@ -59,6 +59,17 @@ Then, I tried to replace the nested sphere structure in the given file to see ho
 
 Another thing that I have done was to create a design from scratch in grasshopper and experiment with different components. I followed a youtube tutorial for creating parametric objects.
 
+Here is a trash can that I have created with grasshopper. I was able to examine components such as boundary surfaces and offset curves.
+
+<img width="400" alt="trash can body" src="assets/body.png"> 1
+> I created the body by drawing a circle and extruding it. I joined it with a base as well.
+
+<img width="400" alt="trash can lid" src="assets/lid.png"> 2
+> I created the lid of it by drawing a circle, moving it, and extruding different parts to make its top and handle.
+
+<img width="700" alt="trash can" src="assets/baked_trashcan.png"> 3
+> Here's how the trash can looks after I bake it!
+
 **4. Creating diagrams to understand grasshopper**
 
 I created 2 diagrams about rhino&grasshopper after I've experimented with them. These diagrams helped me think more deeply about the mechanism of these softwares and helped me further understand the modeling process.
@@ -66,7 +77,7 @@ I created 2 diagrams about rhino&grasshopper after I've experimented with them. 
 <img width="1000" alt="diagram 1" src="assets/diagram1.png"> *diagram v1*
 > For this first version, I briefly went through creating the phone stand design again in my head and wrote down bullet points. Based on the bullet points, I thought about the processes and broke it up into these steps.
 
-<img width="500" alt="diagram 2" src="assets/diagram2.jpg"> 
+<img width="600" alt="diagram 2" src="assets/diagram2.jpg"> 
 
 *diagram v2*
 
