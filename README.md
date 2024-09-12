@@ -2,14 +2,78 @@
 Welcome to my new GitHub repository! 
 
 # Outline
-week 2
+[week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+# Week 2: Trying Rhino and grasshopper #
+## Week of 09/03/2024
+
+### What I've done
+
+This week, we started investigation of our first project -- computational design. I tried more functions in Rhino and started to explore grasshopper. To gain a better understanding of these 2 tools, I completed the following:
+* watch linkedin tutorials on navigating Rhino 2D sketches and 3D modeling
+* watch linkedin tutorials on getting to know grasshopper UI and basic parametric designs
+* follow along a youtube video about creating a box with grasshopper
+* play with the phone stand file shared during class, change parameters
+* create my own 3d model in grasshopper to familiarize myself with some commonly used components
+* make a diagram of how grasshopper works
+
+I want to document the process of me learning and trying out these 2 tools: 
+
+**1. Changing the parameters for the phone case** 
+
+The first thing that I have done was to explore the example files of the phone case given during class. Adjusting the paramters allowed me to see how grasshopper connects to rhino, and how to make small changes to an existing design.
+
+<img width="400" alt="step 1" src="assets/change1.png"> 1
+>I toggled the boolean operators and enabled components that I think are necessary for modifying the parameters of the model.
+
+<img width="400" alt="step 2" src="assets/change2.png"> 2
+> I changed the parameters of the phone first to make it have the same specs as my current phone. I also changed the orientation of the model to make it be able to film tiktok videos.
+
+<img width="400" alt="step 3" src="assets/change3.png">  <img width="400" alt="step 4" src="assets/change4.png"> 3
+> I played around the paramters of the phone stand and see how the shape changes.
+
+<img width="400" alt="step 5" src="assets/change5.png"> <img width="400" alt="step 6" src="assets/change6.png"> 4
+> It seems like the current design cannot be modified too much to hold an upright phone, but I baked it anyway to see how it looks.
+
+
+**2. Replacing the nested spheres** 
+
+Then, I tried to replace the nested sphere structure in the given file to see how I could make some more changes to the design and create something on my own. 
+
+<img width="400" alt="step 1" src="assets/replace1.png"> 1
+> I made a box & cylinder in another grasshopper file. I followed the steps during Monday's TDF class to make sure the design is good for replacing the original structure. I copied and pasted it to the phone case file.
+
+<img width="400" alt="step 2" src="assets/replace2.png"> 2
+> I used the nested box to replace the original structure. It seems like the design is just too small
+
+<img width="400" alt="step 3" src="assets/replace3.png"> 3
+> I changed the parameters of the box based on the size of the phone and the design constraints. The assembly looked good after the modifications.
+
+<img width="400" alt="step 4" src="assets/replace4.png"> 4
+> I baked the design, and it looked great.
+
+**3. Creating my own grasshopper design**
+
+Another thing that I have done was to create a design from scratch in grasshopper and experiment with different components. I followed a youtube tutorial for creating parametric objects.
+
+**4. Creating diagrams to understand grasshopper**
+
+I created 2 diagrams about rhino&grasshopper after I've experimented with them. These diagrams helped me think more deeply about the mechanism of these softwares and helped me further understand the modeling process.
+
+<img width="1000" alt="step 4" src="assets/diagram1.png"> *diagram v1*
+> For this first version, I briefly went through creating the phone stand design again in my head and wrote down bullet points. Based on the bullet points, I thought about the processes and broke it up into these steps.
+
+### Reflections
+
+### Speculations
 
 
 ---
 # Week 1: Intro to TDF #
-## Week of 08/29/2024
+## Week of 08/27/2024
 
 **What I've done** 
 
