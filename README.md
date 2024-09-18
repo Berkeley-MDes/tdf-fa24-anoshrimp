@@ -2,9 +2,102 @@
 Welcome to my new GitHub repository! 
 
 # Outline
+[week 3](README.md#week-3-Building-my-own-phone-stand)
+
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+
+---
+# Week 3: Building my own phone stand #
+## Week of 09/09/2024
+
+### What I've done
+This week, I finished my initial explorations on grasshopper and started to build my own phone stand for our first assignment. In order to get prepared and make the project look good, I completed the following:
+* watched linkedin tutorials and youtube on grasshopper's basic use and navigation
+* looked for forms that suit my current ability of parametric design + determine what I'm gonna do
+* ask GPT about techniques specific to my design
+* consult technologist at the makerspace about fabrication
+* 3D print my design
+* Test my design
+
+&nbsp;
+
+Here are some documentations of what I have done:
+
+**1. Determining what I'm gonna make**
+
+The first challenge I met this week was I need to decide what I'm gonna create for the first assignment. After playing around with the phone stand file provided to us, I feel like there are a lot of elements worth exploring for phone stands -- stability, orientation, form, size, appearance, etc. Therefore, I decided to still create a phone stand. I wanted to create something that is compact, cute in its form, not so hard in its parametric form, and have the ability to be adjusted. I looked online and found some ones that matched my expectations and I selected the last pic as my inspiration. I selected it because the shape of the chair is a collection of cylinders and boxes, which look familiar to me, while they have a much harder combination than the initial design showed to us. Also, it looks cute and has 3 levels of inclination to be adjusted by users.
+
+<img width="200" alt="stand 1" src="assets/phone1.png"><img width="200" alt="stand 2" src="assets/phone2.png"><img width="215" alt="stand 3" src="assets/phone3.png"><img width="200" alt="stand 4" src="assets/phone4.jpg">
+⬅️*Selected*
+
+&nbsp;
+
+**2. Planning and learning**
+
+I started by asking GPT for advice on the components I would need. After gathering the information, I sketched out the form, envisioning how the chair would look and function as a phone stand. Since the stand involves using the fillet component, I searched for YouTube videos to learn how to create fillets, which would give the chair smooth, rounded edges. 
+
+<img width="400" alt="step 1" src="assets/gpt.png"> 1
+> I asked GPT on how to approach this design in grasshopper to get a sense of how to organize structures and what components are needed.
+
+<img width="300" alt="step 2" src="assets/sketch.png"><img width="400" alt="step 2" src="assets/workflow.png"> 2
+> I labled the needed parts of the stand on the image to see how many parts I need and how I can orient & combine them. I also created a chart for the workflow of creating this design.
+
+<img width="400" alt="step 1" src="assets/youtube.png"> 3
+> I found out that "fillet" is pretty hard to complete in grasshopper, so I watched a tutorial specifically on this technique on youtube.
+
+&nbsp;
+
+**3. Actually making the stand in GH**
+
+I went ahead to grasshopper and started to create the stand. 2 challenges occurred: 
+
+First is: I do not know how to fillet the edges of cylinders. I tried to search online but found nothing. So I made the 4 legs of my stand to be filleted boxes. They actually look really nice.
+  
+<img width="400" src="assets/cylinders.png"> <img width="400" alt="step 1" src="assets/legs.png"> 
+
+
+Second is: Positioning things are hard. I made a lot of calculations to make positions right and maintain them in the right space if I adjust the positions, scale, or change parameters in the control panel.
+
+<img width="400" src="assets/positioning.png">
+
+&nbsp;
+
+**4. Fabricating & final outcome**
+
+This is the final grasshopper diagram I made and how it looks like in Rhino:
+
+<img width="1000" src="assets/final diagram.png">
+
+This is how it looks like in real life after printed out (with a bunch of support structures):
+
+<img width="500" src="assets/chair1.jpg">
+
+This is the process of cleaning the model:
+
+<img width="500" src="assets/chair2.jpg">
+
+This is the final look!🪑🥳🥳🪑
+
+<img width="500" src="assets/chair3.jpg">
+
+### Reflections
+
+* I have improved my proficiency in Grasshopper through LinkedIn and YouTube tutorials. Turning to structured tutorials create me a good start.
+* I adapted my design approach by substituting filleted boxes for cylinder legs due to difficulties with edge filleting in Grasshopper. Being flexible in the design process is important and it accelerates the process.
+* I actively sought advice from GPT and YouTube tutorials to overcome some technical challenges. Those immediate resources are helpful.
+* Consulting with a makerspace technologist made my printing succeed easier. 
+* The thorough documentation of each step of the process, from concept to final product helped me learn to iterate on the design based on physical testing outcomes.
+
+### Speculations
+
+* I might explore some more elements into the phone stand design, allowing for easier adjustments for this current design.
+* I'll revisit the current design to improve the filleting technique for smoother transitions between surfaces to create a more polished version.
+* I might explore more complex forms in Grasshopper for future projects, so that I can gradually building up my skills by tackling more challenging designs.
+* For future projects, I will still refer to online tutorials and youtube videos to seek help for making projects.
+
 
 ---
 # Week 2: Trying Rhino and grasshopper #
@@ -107,7 +200,7 @@ Since 3D modeling softwares, like rhino, could be hard to learn for novices, suc
 
 ---
 # Week 1: Intro to TDF #
-## Week of 08/27/2024
+## Week of 08/26/2024
 
 **What I've done** 
 
