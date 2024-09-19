@@ -85,18 +85,11 @@ This is the final look!🪑🥳🥳🪑
 
 ### Reflections
 
-* I have improved my proficiency in Grasshopper through LinkedIn and YouTube tutorials. Turning to structured tutorials create me a good start.
-* I adapted my design approach by substituting filleted boxes for cylinder legs due to difficulties with edge filleting in Grasshopper. Being flexible in the design process is important and it accelerates the process.
-* I actively sought advice from GPT and YouTube tutorials to overcome some technical challenges. Those immediate resources are helpful.
-* Consulting with a makerspace technologist made my printing succeed easier. 
-* The thorough documentation of each step of the process, from concept to final product helped me learn to iterate on the design based on physical testing outcomes.
+I have improved my proficiency in Grasshopper through LinkedIn and YouTube tutorials. Turning to structured tutorials create me a good start. Since I adapted my design approach by substituting filleted boxes for cylinder legs due to difficulties with edge filleting in Grasshopper, I learned that being flexible in the design process is important and it accelerates the process. What really helped me was that I actively sought advice from GPT and YouTube tutorials to overcome some technical challenges. Those immediate resources are helpful. Also, consulting with a makerspace technologist made my printing succeed easier. Last, The thorough documentation of each step of the process, from concept to final product helped me learn to iterate on the design based on physical testing outcomes.
 
 ### Speculations
 
-* I might explore some more elements into the phone stand design, allowing for easier adjustments for this current design.
-* I'll revisit the current design to improve the filleting technique for smoother transitions between surfaces to create a more polished version.
-* I might explore more complex forms in Grasshopper for future projects, so that I can gradually building up my skills by tackling more challenging designs.
-* For future projects, I will still refer to online tutorials and youtube videos to seek help for making projects.
+In the future, I might explore some more elements into the phone stand design, allowing for easier adjustments for this current design. If I have more time, I'll revisit the current design to improve the filleting technique for smoother transitions between surfaces to create a more polished version. In general, I might explore more complex forms in Grasshopper for future projects, so that I can gradually building up my skills by tackling more challenging designs. For future projects, I will still refer to online tutorials and youtube videos to seek help for making projects. Those speculations were based on what sounded intersting to me and what helped me along the way during the phone stand project.
 
 
 ---
