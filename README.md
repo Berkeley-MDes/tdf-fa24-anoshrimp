@@ -45,15 +45,38 @@ For my last project, I received valuable feedback from peers during last week's 
 *my speculations*
 
 
-
 **2. Learning about digital ecosystem and installing software**
 
+A digital ecosystem can be viewed as a unified whole formed by the interaction of digital elements functioning within a complex environment. Key entry points into this ecosystem include microcontrollers (e.g., Photon2), firmware code, electronics, and web-based interfaces, all of which facilitate human-computer interaction (HCI) and bridge physical computing with digital interfaces. Examples of digital ecosystems range from rapid prototyping and IoT devices to interactive art, gaming, simulations, remote interfaces, and cloud computing. Microcontrollers are highlighted as small computers with components like a CPU, system clock, memory, and peripherals, utilizing input/output pins and pulse width modulation for signal variation. Our project challenge involves designing a system that demonstrates interconnected behavior across these entry points. 
+
+<img width="800" src="assets/install.png">
+
+*I installed the required platform and searched it up for a bit*
+
+
 **3. Creating a diagram about my understanding of digital ecosystems**
+
+Based on my understanding of digital ecosystems, I created a map for my work and productivity scheme. I broke the products I use into 3 categories - devices, tools, and supporting services. For the inner circle, the labels show how each function supports each other. For the outer circle, I labeled the information that each category transfers and displays. And for the connections of the outer circle, I used them to complete the feedback loop. I wrote about how they influence user(my) behavior and make an effect on future behaviors.
+
+<img width="900" src="assets/ecosystem.png">
 
 
 ### Reflections
 
+Completing my first Grasshopper project and transitioning to the digital ecosystem project has been a significant learning experience. While peer feedback emphasized the importance of clarity and structure, what stood out to me more was the value of thoroughly analyzing my design process. Creating diagrams for fabrication analysis and speculations helped me understand the step-by-step journey of my project. It made me more conscious of how each decision influenced the final outcome. It also allowed me to pinpoint where my approach was effective and where I could improve. This deep reflection on my work has enhanced my appreciation for the iterative nature of design and how each phase contributes to a more thoughtful and cohesive outcome.
+
+
 ### Speculations
+
+### Reflections
+
+Completing my first Grasshopper project and transitioning to the digital ecosystem project has been a transformative experience. Beyond the peer feedback, the most valuable part was the chance to deeply analyze my design process. Creating diagrams for fabrication analysis and speculations allowed me to see how each step contributed to the final product. This reflection made me more aware of the importance of a methodical approach, showing how every decision impacts the overall outcome. I realized that design isn't just about making something functional or aesthetically pleasing; it's about understanding the journey and the thought process behind it. This insight has reinforced my belief that great design emerges from an intentional and iterative process that embraces both successes and areas of improvement.
+
+### Speculations
+
+Looking ahead, I see myself approaching design with a more holistic mindset, especially as I delve deeper into the digital ecosystem project. Understanding how interconnected elements like microcontrollers, firmware, electronics, and web interfaces shape user experiences has made me more conscious of the complexity and potential of digital design. I plan to create systems that are not just functional but adaptable, responsive, and capable of evolving alongside user behaviors and technological advances. 
+
+My view of the design world is shifting toward seeing it as a living ecosystem where every element has a role and an impact. In the future, I want to create designs that go beyond isolated functions, integrating multiple entry points to form a cohesive, interactive experience. I believe that truly innovative design comes from recognizing patterns, connections, and influences within this digital landscape. This awareness will guide me to design with empathy, adaptability, and a strong sense of purpose. As I continue my journey, I aim to blend technical stuff with a deep understanding of human experiences.
 
 
 ---
