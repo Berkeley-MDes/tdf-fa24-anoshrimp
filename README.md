@@ -2,11 +2,58 @@
 Welcome to my new GitHub repository! 
 
 # Outline
+
+[week 3](README.md#week-4-Starting-new-project)
+
 [week 3](README.md#week-3-Building-my-own-phone-stand)
 
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+
+# Week 4: Starting new project #
+## Week of 09/16/2024
+
+### What I've done
+This week, I finished my first project for grasshopper and started new project on digital ecosystem. Here is what I've done:
+* presented my video to peers and gathered feedback for project 1
+* created a report for project 1 to organize all my thoughts and summarize my work
+* learned about digital ecosystems
+* installed software and platform needed for project 2 development
+* learned about expectations for project 2
+* made a diagram about digital ecosystem on work/productivity
+
+
+&nbsp;
+
+Here are some documentations of what I have done:
+
+**1. Summing up my first project**
+
+For my last project, I received valuable feedback from peers during last week's peer review session. Many people appreciated the logical flow and explanation of the design process in the video. However, some people suggested that I should simplify codes, add transitions, and offer more explanations of the Grasshopper script. Most users also requested explanations of why a chair shape was chosen. I really value those suggestions and think that I will definitely take those in consideration when building my next project. Clarity, simplicity, and structure are all key elements to any design project. I also created diagrams for fabrication analysis and speculations when I made the report. Those were really helpful in my reflection process. I get to think thoroughly about the steps that I went through. I was able to think about what I did well and what part I want to do better. Here are the 2 diagrams I created.
+
+<img width="800" src="assets/fabrication.png">
+
+*fabrication analysis*
+
+&nbsp;
+
+<img width="800" src="assets/speculation.png">
+
+*my speculations*
+
+
+
+**2. Learning about digital ecosystem and installing software**
+
+**3. Creating a diagram about my understanding of digital ecosystems**
+
+
+### Reflections
+
+### Speculations
 
 
 ---
