@@ -3,7 +3,7 @@ Welcome to my new GitHub repository!
 
 # Outline
 
-[week 3](README.md#week-4-Starting-new-project)
+[week 4](README.md#week-4-Starting-new-project)
 
 [week 3](README.md#week-3-Building-my-own-phone-stand)
 
