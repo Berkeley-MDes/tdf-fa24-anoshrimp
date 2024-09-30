@@ -19,6 +19,63 @@ Welcome to my new GitHub repository!
 
 ### What I've done
 
+Documenting how I explored and learned about particle workbench and the photon2 board. 
+
+1. I connected the board to my laptop and completed the setup on particle.io. By connecting my product to UCB's IOT and to my home wifi, I was able to configure the board.
+
+<img width="500" src="assets/setup.png"> <img width="500" src="assets/board.jpg"> 
+
+&nbsp;
+
+2. I flashed codes to my board to explore the serial monitor function, ensure connection settings are good, and see how my board reacts. Serial monitor successfully showed the desired messages that I want to see, including counting strings and printing out "hello world".
+
+<img width="500" src="assets/code1.png"> <img width="500" src="assets/code2.png">  
+
+&nbsp;
+  
+3. I then setup a very basic circuit with an LED and a button. By flashing the code that allows control for the speed of blinking led with the button, I was able to control the led! Here's a gif about how the blink rate changes.
+
+<img width="380" src="assets/circuit1.jpg"> <img width="500" src="assets/circuit1.gif">  
+
+&nbsp;
+
+4. The next step was to make some changes by myself. I first added an additional led light to the system. I added addtional code to the original file. Now, pressing the button can control the blinking speed of both lights. One goes faster and the other one goes slower. I made changes in the C script by adding the OUTPUT and addtional lines for the function that controls the button press.
+
+<img width="500" src="assets/code3.png"> <img width="400" src="assets/detail1.png">  
+
+<img width="380" src="assets/circuit2.jpg"> <img width="500" src="assets/circuit2.gif">  
+
+&nbsp;
+
+5. I also tried to add another button. Pressing them can control the blink of the led. One makes it faster and the other one makes it slower. I made changes in the C script by adding another INPUT and created an additional function that specifies what the additional button does.
+   
+<img width="500" src="assets/code4.png"> <img width="350" src="assets/detail2.png">  
+
+<img width="380" src="assets/circuit3.jpg"> <img width="500" src="assets/circuit3.gif">  
+
+&nbsp;
+
+**How the Elements Work Together to Create a Cohesive Whole:**
+
+* Timing System: The timing system controls the LED blink rate, which changes based on the button presses. This provides real-time feedback, allowing the system to react to user input, making it dynamic and interactive.
+* Variables: Variables such as pulserate store the current blinking speed, allowing the system to adjust based on button presses. This interaction makes the program adaptable, enabling both buttons to modify the behavior of the LEDs.
+* Outputs: The LED illumination (both onboard and external) serves as visual feedback, reflecting changes based on your interactions. The onboard LED's behavior demonstrates the system’s functionality, while the external LED adds more visual elements, making the changes more noticeable.
+
+
+**How This System Benefits a New Design**
+
+* **Scalability:** The system can be expanded with additional inputs and outputs, making it ideal for more complex designs. For example, adding more buttons or LEDs to control different aspects of an interactive device.
+* **Real-time Interactivity:** The system's responsiveness to button presses offers immediate feedback, which is crucial for designs requiring user interaction, such as lighting controls, alarms, or smart home devices.
+
+**Entry Points and Advantages**
+
+The system’s primary entry points are both hardware and software. The buttons serve as the hardware entry points, allowing users to interact directly with the system. The variables and timing logic act as the software entry points. This dual nature ensures that the system is highly responsive and can be adjusted or expanded as needed, making it versatile for different applications.
+
+One of the key advantages of this system is its flexibility and adaptability. It’s easy to add more components, such as additional buttons or LEDs, which makes the design scalable. When cloud integration is enabled, it offers the added advantage of remote access and monitoring, expanding the system's capabilities further.
+
+**Missing Ecosystems in Daily Life**
+
+One missing ecosystem in my daily life is a smart notification system that offers visual cues based on real-time data. For example, an LED-based system that changes color or blink patterns to indicate notifications from various devices or apps would be extremely useful. It could provide non-intrusive, quick insights into important updates, such as incoming messages, weather alerts, or reminders, without needing to check multiple screens or devices constantly. Integrating a system like this into my workspace would streamline how I receive information and enhance overall productivity.
 
 # Week 4: Starting new project #
 ## Week of 09/16/2024
