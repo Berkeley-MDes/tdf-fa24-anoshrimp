@@ -23,13 +23,13 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 1. I connected the board to my laptop and completed the setup on particle.io. By connecting my product to UCB's IOT and to my home wifi, I was able to configure the board.
 
-<img width="500" src="assets/setup.png"> <img width="500" src="assets/board.jpg"> 
+<img width="400" src="assets/setup.png"> <img width="400" src="assets/board.jpg"> 
 
 &nbsp;
 
 2. I flashed codes to my board to explore the serial monitor function, ensure connection settings are good, and see how my board reacts. Serial monitor successfully showed the desired messages that I want to see, including counting strings and printing out "hello world".
 
-<img width="500" src="assets/code1.png"> <img width="500" src="assets/code2.png">  
+<img width="400" src="assets/code1.png"> <img width="400" src="assets/code2.png">  
 
 &nbsp;
   
