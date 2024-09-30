@@ -23,7 +23,7 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 1. I connected the board to my laptop and completed the setup on particle.io. By connecting my product to UCB's IOT and to my home wifi, I was able to configure the board.
 
-<img width="400" src="assets/setup.png"> <img width="400" src="assets/board.jpg"> 
+<img width="400" src="assets/setup.png"> <img width="300" src="assets/board.jpg"> 
 
 &nbsp;
 
@@ -35,23 +35,23 @@ Documenting how I explored and learned about particle workbench and the photon2 
   
 3. I then setup a very basic circuit with an LED and a button. By flashing the code that allows control for the speed of blinking led with the button, I was able to control the led! Here's a gif about how the blink rate changes.
 
-<img width="380" src="assets/circuit1.jpg"> <img width="500" src="assets/circuit1.gif">  
+<img width="300" src="assets/circuit1.jpg"> <img width="400" src="assets/circuit1.gif">  
 
 &nbsp;
 
 4. The next step was to make some changes by myself. I first added an additional led light to the system. I added addtional code to the original file. Now, pressing the button can control the blinking speed of both lights. One goes faster and the other one goes slower. I made changes in the C script by adding the OUTPUT and addtional lines for the function that controls the button press.
 
-<img width="500" src="assets/code3.png"> <img width="400" src="assets/detail1.png">  
+<img width="400" src="assets/code3.png"> <img width="340" src="assets/detail1.png">  
 
-<img width="380" src="assets/circuit2.jpg"> <img width="500" src="assets/circuit2.gif">  
+<img width="300" src="assets/circuit2.jpg"> <img width="400" src="assets/circuit2.gif">  
 
 &nbsp;
 
 5. I also tried to add another button. Pressing them can control the blink of the led. One makes it faster and the other one makes it slower. I made changes in the C script by adding another INPUT and created an additional function that specifies what the additional button does.
    
-<img width="500" src="assets/code4.png"> <img width="350" src="assets/detail2.png">  
+<img width="400" src="assets/code4.png"> <img width="280" src="assets/detail2.png">  
 
-<img width="380" src="assets/circuit3.jpg"> <img width="500" src="assets/circuit3.gif">  
+<img width="300" src="assets/circuit3.jpg"> <img width="400" src="assets/circuit3.gif">  
 
 &nbsp;
 
