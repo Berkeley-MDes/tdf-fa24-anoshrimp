@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 5](README.md#week-5-Learning-about-Particle-Photon-2)
+
 [week 4](README.md#week-4-Starting-new-project)
 
 [week 3](README.md#week-3-Building-my-own-phone-stand)
@@ -12,6 +14,11 @@ Welcome to my new GitHub repository!
 [week 1](README.md#week-1-Intro-to-TDF)
 
 ---
+# Week 5: Learning about Particle Photon 2 #
+## Week of 09/23/2024
+
+### What I've done
+
 
 # Week 4: Starting new project #
 ## Week of 09/16/2024
@@ -60,13 +67,6 @@ Based on my understanding of digital ecosystems, I created a map for my work and
 
 <img width="900" src="assets/ecosystem.png">
 
-
-### Reflections
-
-Completing my first Grasshopper project and transitioning to the digital ecosystem project has been a significant learning experience. While peer feedback emphasized the importance of clarity and structure, what stood out to me more was the value of thoroughly analyzing my design process. Creating diagrams for fabrication analysis and speculations helped me understand the step-by-step journey of my project. It made me more conscious of how each decision influenced the final outcome. It also allowed me to pinpoint where my approach was effective and where I could improve. This deep reflection on my work has enhanced my appreciation for the iterative nature of design and how each phase contributes to a more thoughtful and cohesive outcome.
-
-
-### Speculations
 
 ### Reflections
 
