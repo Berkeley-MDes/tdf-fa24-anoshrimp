@@ -64,7 +64,7 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 7. Last, I connected my device to cloud and tried to publish and track information to the cloud. This prepares me for future tasks that involves with communication with the cloud.
 
-<img width="400" src="assets/cloud.png">
+<img width="600" src="assets/cloud.png">
 
 &nbsp;
 
