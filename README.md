@@ -27,19 +27,26 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 &nbsp;
 
+
 2. I flashed codes to my board to explore the serial monitor function, ensure connection settings are good, and see how my board reacts. Serial monitor successfully showed the desired messages that I want to see, including counting strings and printing out "hello world".
 
 <img width="400" src="assets/code1.png"> <img width="400" src="assets/code2.png">  
 
 &nbsp;
-  
-3. I then setup a very basic circuit with an LED and a button. By flashing the code that allows control for the speed of blinking led with the button, I was able to control the led! Here's a gif about how the blink rate changes.
+
+3. I then went ahead to examine the particle photon 2 board diagram, and follow the picture to build the circuit out.
+
+<img width="400" src="assets/photon2.svg"> <img width="200" src="assets/boardc.png"> 
+
+&nbsp;
+
+4. I then setup a very basic circuit with an LED and a button. By flashing the code that allows control for the speed of blinking led with the button, I was able to control the led! Here's a gif about how the blink rate changes.
 
 <img width="300" src="assets/circuit1.jpg"> <img width="400" src="assets/circuit1.gif">  
 
 &nbsp;
 
-4. The next step was to make some changes by myself. I first added an additional led light to the system. I added addtional code to the original file. Now, pressing the button can control the blinking speed of both lights. One goes faster and the other one goes slower. I made changes in the C script by adding the OUTPUT and addtional lines for the function that controls the button press.
+5. The next step was to make some changes by myself. I first added an additional led light to the system. I added addtional code to the original file. Now, pressing the button can control the blinking speed of both lights. One goes faster and the other one goes slower. I made changes in the C script by adding the OUTPUT and addtional lines for the function that controls the button press.
 
 <img width="400" src="assets/code3.png"> <img width="340" src="assets/detail1.png">  
 
@@ -47,11 +54,17 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 &nbsp;
 
-5. I also tried to add another button. Pressing them can control the blink of the led. One makes it faster and the other one makes it slower. I made changes in the C script by adding another INPUT and created an additional function that specifies what the additional button does.
+6. I also tried to add another button. Pressing them can control the blink of the led. One makes it faster and the other one makes it slower. I made changes in the C script by adding another INPUT and created an additional function that specifies what the additional button does.
    
 <img width="400" src="assets/code4.png"> <img width="280" src="assets/detail2.png">  
 
 <img width="300" src="assets/circuit3.jpg"> <img width="400" src="assets/circuit3.gif">  
+
+&nbsp;
+
+7. Last, I connected my device to cloud and tried to publish and track information to the cloud. This prepares me for future tasks that involves with communication with the cloud.
+
+<img width="400" src="assets/cloud.png">
 
 &nbsp;
 
