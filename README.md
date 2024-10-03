@@ -15,7 +15,7 @@ Welcome to my new GitHub repository!
 
 ---
 # Week 5: Learning about Particle Photon 2 #
-## Week of 09/23/2024
+## Week of 09/26/2024
 
 ### What I've done
 
