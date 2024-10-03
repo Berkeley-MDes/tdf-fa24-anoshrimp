@@ -19,7 +19,7 @@ Welcome to my new GitHub repository!
 
 ### What I've done
 
-Documenting how I explored and learned about particle workbench and the photon2 board. 
+Documenting how I explored and learned about particle workbench and the photon2 board through going through initial tutorials.
 
 1. I connected the board to my laptop and completed the setup on particle.io. By connecting my product to UCB's IOT and to my home wifi, I was able to configure the board.
 
@@ -42,7 +42,7 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 4. I then setup a very basic circuit with an LED and a button. By flashing the code that allows control for the speed of blinking led with the button, I was able to control the led! Here's a gif about how the blink rate changes.
 
-<img width="300" src="assets/circuit1.jpg"> <img width="400" src="assets/circuit1.gif">  
+<img width="300" src="assets/t1.jpg"> <img width="400" src="assets/circuit1.gif">  
 
 &nbsp;
 
@@ -68,6 +68,20 @@ Documenting how I explored and learned about particle workbench and the photon2 
 
 &nbsp;
 
+**Discoveries, Thoughts**
+
+*Challenges*
+
+A key challenge was ensuring that the button press accurately controlled the LED's blinking period without delays or missed inputs. Debugging button responsiveness and dealing with timing issues in the code required careful adjustments, especially when the LED didn’t change its blinking behavior consistently.
+
+*What is working?*
+
+The button successfully changes the LED's blinking period when pressed, and the system responds promptly. The LED behavior is visually clear, and the timing adjustments from the button presses are working reliably after troubleshooting the timing logic.
+
+*What is to be done?*
+
+Further refinement could include ensuring the button press is debounced to avoid false triggering or unintended behavior. Improving the code to handle rapid presses and ensuring smooth transitions between blinking periods are additional goals for optimizing the interaction.
+
 **How the Elements Work Together to Create a Cohesive Whole:**
 
 * Timing System: The timing system controls the LED blink rate, which changes based on the button presses. This provides real-time feedback, allowing the system to react to user input, making it dynamic and interactive.
@@ -89,6 +103,38 @@ One of the key advantages of this system is its flexibility and adaptability. It
 **Missing Ecosystems in Daily Life**
 
 One missing ecosystem in my daily life is a smart notification system that offers visual cues based on real-time data. For example, an LED-based system that changes color or blink patterns to indicate notifications from various devices or apps would be extremely useful. It could provide non-intrusive, quick insights into important updates, such as incoming messages, weather alerts, or reminders, without needing to check multiple screens or devices constantly. Integrating a system like this into my workspace would streamline how I receive information and enhance overall productivity.
+
+### The 3 Additional Tutorials I've done
+
+**Button -> LED pulse rate**
+
+This tutorial is similar to what we tried for the initial tutorials, so building the circuit and flashing the code was pretty fast. Here is the circuit I built, and here's a demo of how I controled the lights by pressing the button to make it fast, then reset.
+
+<img width="300" src="assets/a1.jpg"> <img width="400" src="assets/circuit1.gif">  
+
+**FSR -> LED color**
+
+For the FSR tutorial, I built the circuit with a tape and then tested it by flashing code to it. I met some difficulties flashing the code because I entered the wrong setting to it. After fixing it, it worked well. As I applied pressure to the FSR, the led gradually changes its frequency.
+
+<img width="400" src="assets/a2code.png">
+
+<img width="300" src="assets/a2.jpg"> <img width="400" src="assets/a1.gif">  
+
+**Button Send on change**
+
+For this one, as it involves with the cloud, I reconnected my photon to ensure my device is online. I built this simple circuit and examined the code. I managed to see the status of button press on the cloud portal. 
+
+<img width="300" src="assets/a3code.png"> <img width="460" src="assets/a3p.png"> 
+
+<img width="300" src="assets/a3.jpg"> <img width="400" src="assets/a2.gif">  
+
+### Reflections and speculations based on tutorials
+
+The new demos introduce more complex inputs like the FSR, allowing for continuous, analog control, such as adjusting color fades in an RGB LED. Prior examples focused more on binary inputs, like buttons controlling the random blinking of LEDs, and simpler output behaviors. Both the new and prior examples involve real-time event handling, such as pressing a button to trigger changes in LED behavior. Additionally, both systems send data, whether it’s logging to a console or publishing values to the cloud, maintaining a shared focus on interactivity and feedback.
+
+The demos could be expanded by adding sensor feedback, like temperature or light sensors that automatically adjust the RGB LED based on environmental conditions. Another idea is to implement varying button press durations to trigger different behaviors, so that we could add versatility to user interactions. A feature relevant to my life is the FSR one, like adjusting lighting or sending notifications based on sensor data. This could be useful in day-to-day activities, where the system adapts to environment without manual intervention.
+
+Machine learning could analyze user interactions, learning preferences for button presses or sensor inputs. Over time, it could adjust LED behaviors or environmental settings automatically based on patterns, making the system more personalized and reducing the need for manual adjustments. These examples could be combined into a smart home ecosystem where button presses, sensor data, and cloud interactions control devices like lights, fans, or even notifications. Machine learning could unify the system, adapting settings based on user behavior and environmental inputs to create an intelligent, automated environment.
 
 # Week 4: Starting new project #
 ## Week of 09/16/2024
