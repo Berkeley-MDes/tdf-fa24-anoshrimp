@@ -26,7 +26,11 @@ This week, my focus was on connecting a Stemma QT interface board to the Particl
 
 Working with the accel/gyro component and the MPU6050 was pretty fascinating. It’s amazing how much information you can get from such a small sensor—detecting motion, tilt, and orientation. Seeing those raw values streaming in real time felt like I was directly tapping into the physical movements of the device. It made me think about the possibilities of using these values to make more interactive and responsive designs. Even though the data can be a little unpredictable and noisy, there’s something satisfying about experimenting with different ways to clean it up and make it more usable.
 
+<img width="400" src="assets/accel.gif"> <img width="400" src="assets/accel1.gif"> 
+
 Integrating the MPU6050 into smart products seems like it has huge potential. It could be the core of a product that reacts to user movements—like a wearable that tracks fitness or an IoT device that adjusts based on its orientation. The idea of combining it with the Particle ecosystem is especially exciting because it means the data could be sent to the cloud and interact with other devices in real time. It’s easy to see how this could be used in all kinds of projects, from games to practical tools, and it made me excited about what else I could build with it.
+
+<img width="400" src="assets/prox.gif"> <img width="400" src="assets/prox1.gif"> 
 
 I wanted to push it a bit further, so I explored using the `map()` function to control an LED with the sensor values. To understand the data better, I printed it to the Serial Monitor with `Log()`, and found that the readings were a little noisy. I used `constrain()` to keep the values within a set range and considered adding a moving average to smooth things out.
 
@@ -34,6 +38,14 @@ I also wanted to see how I could share the sensor data with other devices. Using
 
 I also formed a group with Aarya and Vivian to built our digital ecosystem. Our idea was to create a ball/bulb that lights up depending on user's google calendar status. We will utilize google's API, particle cloud, LEDs, and various hardware components to build this project. 
 
+*This is how we imagine our system to behave*
+
+<img width="500" src="assets/eco1.jpg"> 
+
+*This is our user flow*
+
+<img width="600" src="assets/flow1.png"> 
+  
 
 ### Reflections
 
