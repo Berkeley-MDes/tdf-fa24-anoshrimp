@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 6](README.md#week-6-Building-Ecosystem)
+
 [week 5](README.md#week-5-Learning-about-Particle-Photon-2)
 
 [week 4](README.md#week-4-Starting-new-project)
@@ -12,6 +14,35 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+
+# Week 6: Building Ecosystem #
+## Week of 10/03/2024
+
+### What I've done
+
+This week, my focus was on connecting a Stemma QT interface board to the Particle Photon and exploring some sensor projects. After soldering the board, I downloaded the project files and set them up in Visual Studio Code using the Particle extension. Getting everything configured for my device was pretty simple.
+
+Working with the accel/gyro component and the MPU6050 was pretty fascinating. It’s amazing how much information you can get from such a small sensor—detecting motion, tilt, and orientation. Seeing those raw values streaming in real time felt like I was directly tapping into the physical movements of the device. It made me think about the possibilities of using these values to make more interactive and responsive designs. Even though the data can be a little unpredictable and noisy, there’s something satisfying about experimenting with different ways to clean it up and make it more usable.
+
+Integrating the MPU6050 into smart products seems like it has huge potential. It could be the core of a product that reacts to user movements—like a wearable that tracks fitness or an IoT device that adjusts based on its orientation. The idea of combining it with the Particle ecosystem is especially exciting because it means the data could be sent to the cloud and interact with other devices in real time. It’s easy to see how this could be used in all kinds of projects, from games to practical tools, and it made me excited about what else I could build with it.
+
+I wanted to push it a bit further, so I explored using the `map()` function to control an LED with the sensor values. To understand the data better, I printed it to the Serial Monitor with `Log()`, and found that the readings were a little noisy. I used `constrain()` to keep the values within a set range and considered adding a moving average to smooth things out.
+
+I also wanted to see how I could share the sensor data with other devices. Using `Particle.publish()` and `Particle.subscribe()`, I managed to get the data from one device to another, which could be a fun way to collaborate with classmates or build interactive projects. This week’s experiments helped me get a better feel for tweaking firmware and working with sensor data, and I’m excited to dive deeper next week.
+
+I also formed a group with Aarya and Vivian to built our digital ecosystem. Our idea was to create a ball/bulb that lights up depending on user's google calendar status. We will utilize google's API, particle cloud, LEDs, and various hardware components to build this project. 
+
+
+### Reflections
+
+This week’s work gave me a lot to reflect on, especially regarding the process of connecting hardware components with digital data streams. Experimenting with the MPU6050 and seeing how raw motion data can directly influence physical outputs, like an LED, really highlighted the potential of combining sensors with real-time data processing. It made me think more deeply about the importance of smoothing out data to make it reliable and useful for real-world applications. There’s something rewarding about overcoming those challenges, like managing noisy data, to make a more refined and responsive system. It’s also satisfying to see how a small change in code can have an immediate impact on physical behavior.
+
+
+### Speculations
+
+Looking ahead, I am excited about how we can push our digital ecosystem project even further. The idea of using a Google Calendar to influence a tangible object like a light-up ball feels like just the beginning. There are many directions we could take with our calendar bulb project, making it more than just a simple light-up ball. One goal could be to fine-tune how the ball reacts to different types of events—like using different colors to indicate work meetings, personal appointments, or reminders. It could also change brightness based on the urgency or time until the next event, providing an at-a-glance way to understand the day's priorities without needing to check a screen. I can imagine expanding it into a system that not only reacts to calendar events but also uses other types of data inputs to shape user interactions. Maybe it could connect with other APIs or sync with multiple smart devices to create a fully connected environment. These experiments have shown me that with the right tools, it’s possible to bridge the digital and physical worlds in new and meaningful ways, which has me excited about what’s next.
 
 ---
 # Week 5: Learning about Particle Photon 2 #
