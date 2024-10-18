@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 7](README.md#week-7-Rememberall-Project)
+
 [week 6](README.md#week-6-Building-Ecosystem)
 
 [week 5](README.md#week-5-Learning-about-Particle-Photon-2)
@@ -14,6 +16,40 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+# Week 7: Rememberall Project #
+## Week of 10/10/2024
+
+### What I've done
+
+This week, I formed a group with Aarya and Vivian. Together, we plan to work on creating a ball like product that glows according to google calendar API. I am in charge of building the circuit and creating the code for the simulation of the hardware. I started little by little by adding the components to the circuit one by one and test them. Then I integrate the code to accomodate more diverse needs.
+
+Here is our inspiration:
+
+<img width="400" src="assets/ball.png"> 
+
+Here are pictures and videos of the circuit:
+
+<img width="400" src="assets/circuit2.jpg"> 
+
+<img width="400" src="assets/circuit.gif"> <img width="380" src="assets/circuit1.gif"> 
+
+Here are the codes that I have tried, one by one:
+
+<img width="400" src="assets/code1.png"> <img width="400" src="assets/code2.png"> 
+
+Here is a diagrams we created better understand the project:
+
+<img width="700" src="assets/diagram11.png"> 
+
+### Reflections
+
+What's good is that I think I have created the circuit very fast and tested incrementally to deepen my understanding and enhance my design. I enjoyed working with Aarya and Vivian since they are really helpful when I meet difficulties and they did really great in their tasks. I was facinated my the Google API call functions. I wish I could spend more time to explore the functionalities of photon, since it is very powerful. 
+
+### Speculations
+
+For next week, we plan to finish the project early and think about how to shoot the video. Also, fabrication of a good appearance is a big challenge to us. Since the ball is small, I speculate that we might change our circuit for a bit. In the future, I think I will engage more in designing such products and explore the possibilities of creating small, smart things within our large ecosystem.
 
 ---
 
