@@ -18,6 +18,60 @@ Welcome to my new GitHub repository!
 [week 1](README.md#week-1-Intro-to-TDF)
 
 ---
+# Week 8: Finish Rememberall Project #
+## Week of 10/16/2024
+
+### What I've done
+
+This week, our group made significant progress on the Remembrall project by focusing on key areas: integrating code, fabricating the outer shell, and documenting our design process in a video.
+
+**Code Integration:**
+
+We worked extensively on incorporating the Google Calendar API into the project. Our goal is to sync the device with users' calendars to provide timely alerts for upcoming events. I helped refine the input-response system, ensuring that different actions, such as pressing a button or shaking the device, triggered the correct responses—lighting up for a reminder or alerting others in a group scenario.
+We also ensured that the hardware components, like sensors and circuits, were correctly coded to detect when the device was shaken or pressed. This required several iterations of testing the sensor responses and refining the code for smoother interaction.
+
+<img height="250" alt="integrated" src="https://github.com/user-attachments/assets/c3b8db3b-b9b4-4cab-97a5-c23cee936397"> 
+<img height="250" alt="web" src="https://github.com/user-attachments/assets/ef53c96f-3ac8-401f-9d36-baf8be87c87d">
+
+
+**Fabricating the Outer Shell:**
+
+One of our key milestones this week was successfully fabricating the outer shell of Remembrall using 3D printing. We designed the shell to be aesthetically pleasing while also housing all the necessary electronics in a compact form. We focused on ensuring the design was functional, allowing easy access to the buttons and sensors without compromising the sleek look of the device.
+I was heavily involved in the design and fabrication process—iterating on the 3D model to make sure it fit our circuits snugly while remaining lightweight and ergonomic. The 3D printing process required several adjustments to get the right fit, but we were able to produce a high-quality shell that works well for our prototype.
+
+<img width="400" alt="3d" src="https://github.com/user-attachments/assets/3bcddc97-8d36-49bb-8410-6e3f39177ddd">
+<img width="420" alt="scene2" src="https://github.com/user-attachments/assets/3505aa85-8b3d-4c69-ab87-795e4ba55ead">
+
+**Video Showcase:**
+
+To document our progress and present our design, we created a video showcasing the Remembrall. The video highlights key user scenarios, including running to a late meeting, relaxing at home, and group reminder situations. We also demonstrated how the device reacts to different inputs (e.g., shaking, button presses) and incorporated shots of the fabrication process, including coding, circuit assembly, and 3D printing the shell.
+
+I helped script the scenarios, film the interactions, and edit the footage to produce a cohesive narrative that reflects the potential use cases of Remembrall. The video serves as an important tool for communicating our design concept and technical achievements to our peers and stakeholders.
+
+<img height="250" alt="scene" src="https://github.com/user-attachments/assets/543d1a96-a585-4560-adbd-f8d7a0413104">
+
+<img height="250" alt="Screenshot 2024-10-24 at 00 47 33" src="https://github.com/user-attachments/assets/085239f2-004d-4b67-b770-6cf6779f2394">
+
+  
+### Reflections
+
+This week, the focus on coding and ensuring smooth interaction design was both challenging and rewarding. One major takeaway was learning how to effectively map user inputs (shaking, pressing buttons) to meaningful outputs (lights, haptic feedback) while integrating third-party APIs like Google Calendar. The complexity of working with both hardware and software became evident as we had to constantly debug and refine our code to ensure the sensors were responsive.
+
+The 3D printing process also brought up interesting design considerations—how to balance aesthetics with functionality. We had to ensure the shell wasn’t just visually appealing but also practical for housing all the electronics securely. I learned a lot about the importance of iteration in both coding and physical design, as we had to adjust our prototypes and models multiple times to get everything right.
+
+  
+### Speculations 
+
+In the future, our focus will be on finalizing the integration of Google Calendar data into Remembrall’s interaction flow. We need to ensure that real-time event notifications are reliable and that the lighting and haptic feedback correspond to calendar events in a way that is intuitive for users.
+
+I also want to continue improving the physical design by further refining the 3D-printed shell. It needs to be optimized for long-term use—lightweight, durable, and easy to carry or place on a desk. There are still some adjustments needed to make the device more comfortable to hold and use.
+
+We plan to incorporate more advanced sensors for detecting user interaction more precisely. For example, adding proximity sensors or enhancing the shake detection could provide users with more dynamic ways of interacting with Remembrall.
+
+Additionally, we will focus on creating more polished, user-centric scenarios, demonstrating the device in real-life situations and ensuring that the interaction design truly meets the needs of busy professionals.
+
+
+---
 # Week 7: Rememberall Project #
 ## Week of 10/10/2024
 
