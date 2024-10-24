@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 8](README.md#week-8-Finish-Rememberall-Project)
+
 [week 7](README.md#week-7-Rememberall-Project)
 
 [week 6](README.md#week-6-Building-Ecosystem)
