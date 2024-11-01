@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 9](README.md#week-9-Starting-LLM-Project)
+
 [week 8](README.md#week-8-Finish-Rememberall-Project)
 
 [week 7](README.md#week-7-Rememberall-Project)
@@ -18,6 +20,23 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+--- 
+# Week 9: Starting LLM Project #
+## Week of 10/23/2024
+
+### What I've done
+
+Explored the Zero Width platform by following the tutorials.
+
+<img width="1280" alt="Screenshot 2024-10-31 at 15 54 21" src="https://github.com/user-attachments/assets/726853d1-3b21-43cc-8eec-2e7e4d0c0014">
+
+<img width="1280" alt="Screenshot 2024-10-31 at 16 01 02" src="https://github.com/user-attachments/assets/42350e8b-3713-4b06-9f4b-f717682c2dcf">
+
+<img width="1280" alt="Screenshot 2024-10-31 at 16 43 08" src="https://github.com/user-attachments/assets/24a095e8-0146-4569-bf2c-835e65dc1ee4">
+
+<img width="1276" alt="Screenshot 2024-10-31 at 17 35 26" src="https://github.com/user-attachments/assets/f8ffad9e-f65f-4dc0-8a49-94a1cbbae213">
+
 
 ---
 # Week 8: Finish Rememberall Project #
