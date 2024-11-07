@@ -27,16 +27,36 @@ Welcome to my new GitHub repository!
 
 ### What I've done
 
-Explored the Zero Width platform by following the tutorials.
+This week, I wrapped up everything for the previous project and started a new one. It is my first time engaging with LLMs. I followed tutorials for the zero width platform. It is similar to Grasshopper as I also uses diagrams to code and design.
 
+1. Tutorial 1 with a simple gpt agent
+   
 <img width="1280" alt="Screenshot 2024-10-31 at 15 54 21" src="https://github.com/user-attachments/assets/726853d1-3b21-43cc-8eec-2e7e4d0c0014">
 
+2. Tutorial 2 with instructions. I changed it to be about my experiences as a designer and researcher.
+   
 <img width="1280" alt="Screenshot 2024-10-31 at 16 01 02" src="https://github.com/user-attachments/assets/42350e8b-3713-4b06-9f4b-f717682c2dcf">
+
+3. Tutorial 3 with knowledge base. I put in my weekly reports and project reports.
 
 <img width="1280" alt="Screenshot 2024-10-31 at 16 43 08" src="https://github.com/user-attachments/assets/24a095e8-0146-4569-bf2c-835e65dc1ee4">
 
+4. Tutorial 4 with variables. I used Skills and Week as my variables to specify what I used during which week.
+   
 <img width="1276" alt="Screenshot 2024-10-31 at 17 35 26" src="https://github.com/user-attachments/assets/f8ffad9e-f65f-4dc0-8a49-94a1cbbae213">
 
+Here is  diagram of how this thing works, I think it is really helpful.
+
+![image](https://github.com/user-attachments/assets/d8076fb8-66c7-4f07-80f3-de555d929858)
+
+
+### Reflections
+
+Engaging with LLMs for the first time has been an intuitive process thanks to my background with Grasshopper, where diagrammatic thinking plays a key role. The tutorials on the Zero Width Platform allowed me to explore how to shape the model’s responses based on my own design and research experiences. Building a knowledge base from my weekly and project reports was especially enlightening, as it showcased the LLM’s potential to organize and recall personal insights. This experience has inspired new ideas for using LLMs as reflective tools that could grow alongside my projects and professional development.
+
+### Speculations
+
+Moving forward, I can envision scaling these applications of LLMs to build multi-project or even team-based knowledge bases, where insights from one project could inform another. The concept of an LLM as a digital twin that can capture and reflect my evolving design thinking opens up exciting possibilities, especially for collaborative work. This would be particularly powerful in future career settings, where an LLM could serve as an adaptive assistant—suggesting relevant past experiences or design tools to support ongoing challenges and projects.
 
 ---
 # Week 8: Finish Rememberall Project #
@@ -45,6 +65,12 @@ Explored the Zero Width platform by following the tutorials.
 ### What I've done
 
 This week, our group made significant progress on the Remembrall project by focusing on key areas: integrating code, fabricating the outer shell, and documenting our design process in a video.
+
+**Personal Diagrams**
+
+I included a diagram that highlights my role in the project.
+
+![mine](https://github.com/user-attachments/assets/8079e1a6-c368-425f-a22c-47ea64355b11)
 
 **Code Integration:**
 
@@ -73,7 +99,7 @@ I helped script the scenarios, film the interactions, and edit the footage to pr
 
 <img height="250" alt="Screenshot 2024-10-24 at 00 47 33" src="https://github.com/user-attachments/assets/085239f2-004d-4b67-b770-6cf6779f2394">
 
-  
+
 ### Reflections
 
 This week, the focus on coding and ensuring smooth interaction design was both challenging and rewarding. One major takeaway was learning how to effectively map user inputs (shaking, pressing buttons) to meaningful outputs (lights, haptic feedback) while integrating third-party APIs like Google Calendar. The complexity of working with both hardware and software became evident as we had to constantly debug and refine our code to ensure the sensors were responsive.
@@ -235,6 +261,11 @@ The button successfully changes the LED's blinking period when pressed, and the 
 *What is to be done?*
 
 Further refinement could include ensuring the button press is debounced to avoid false triggering or unintended behavior. Improving the code to handle rapid presses and ensuring smooth transitions between blinking periods are additional goals for optimizing the interaction.
+
+Here is a diagram of a good ecosystem representation:
+
+![image](https://github.com/user-attachments/assets/3235cf0b-19f1-4449-985f-91c7cd3011d0)
+
 
 **How the Elements Work Together to Create a Cohesive Whole:**
 
