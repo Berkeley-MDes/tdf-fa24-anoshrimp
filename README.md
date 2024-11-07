@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 10](README.md#week-10-Designing-my-LLM-Project)
+
 [week 9](README.md#week-9-Starting-LLM-Project)
 
 [week 8](README.md#week-8-Finish-Rememberall-Project)
@@ -20,6 +22,55 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+--- 
+# Week 10: Designing my LLM Project #
+## Week of 10/31/2024
+
+### What I've done
+
+This week, I started design my own flow for interacting with a LLM. To make my digital twin to answer questions about my project experiences during TDF, I imported my weekly reports and project reports as knowledge base. I also used GPT 4-o to parse the information and generate desirable results.
+
+One thing that I added was to add DALL-E to my flow to generate an image for users. They can better understand how my projects look like with a generated image. 
+
+Here are the interesting responses of my experiments:
+
+![Slide 16_9 - 18](https://github.com/user-attachments/assets/1d3b96d7-a5f3-4790-9720-bd5c57536db8)
+![Slide 16_9 - 19](https://github.com/user-attachments/assets/0d93d9c3-7872-4522-9d34-2e90367029d1)
+![Slide 16_9 - 20](https://github.com/user-attachments/assets/f8cdcee5-81da-431e-879a-e52a11875df8)
+![Slide 16_9 - 21](https://github.com/user-attachments/assets/217293f3-59a2-454f-8f4a-ec49fb5280b2)
+
+
+Here are some nice answers from my own flow (with image generation):
+
+I asked GPT to create images for my favorite design and to envision my next design.
+
+<img width="563" alt="Screenshot 2024-11-07 at 11 07 58" src="https://github.com/user-attachments/assets/ec615d77-3baf-4eeb-91a8-d884d5034856">
+<img width="550" alt="Screenshot 2024-11-07 at 11 08 07" src="https://github.com/user-attachments/assets/05811d78-66d8-40ea-983d-5abf09fa9ac4">
+
+<img width="560" alt="Screenshot 2024-11-07 at 11 09 45" src="https://github.com/user-attachments/assets/ee8b3a1d-3372-4eac-a3b4-45e56eabd15d">
+
+<img width="561" alt="Screenshot 2024-11-07 at 11 08 25" src="https://github.com/user-attachments/assets/d57a1757-0aec-4651-aee4-0299b09fe41f">
+<img width="560" alt="Screenshot 2024-11-07 at 11 09 14" src="https://github.com/user-attachments/assets/a205cca6-6cc2-4bff-9849-3e88481c4646">
+
+&nbsp;
+
+Here is a diagram of how I visualized to process of creating flows.
+
+![diagram](https://github.com/user-attachments/assets/2c0ae760-7f12-47f2-9a01-10fe7462b975)
+
+### Reflections
+
+This week’s experience designing my own flow for interacting with an LLM has shown me the power of combining personalized information with advanced AI tools. By creating a knowledge base from my weekly and project reports, I was able to generate answers that reflect my project experiences, making the digital twin truly personal and relevant. Adding DALL-E to the flow was a unique addition, as it provided a visual dimension to my responses, allowing users to better connect with my projects through generated images. This integration highlighted how AI can be a comprehensive tool, not only for answering questions but also for creating visuals that deepen understanding. These experiments have sparked ideas about how I can further refine this system to make it an even more interactive and engaging resource.
+
+### Speculations
+
+I made speculations based on human experiences, engineering, and role of AI. 
+
+![speculations](https://github.com/user-attachments/assets/0d97e3c0-de5d-4fb2-96ee-cf7327282a2c)
+
+
+
 
 --- 
 # Week 9: Starting LLM Project #
