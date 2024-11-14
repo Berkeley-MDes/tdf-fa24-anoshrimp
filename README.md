@@ -39,6 +39,8 @@ Light Sensors: To distinguish between day and night for the ultrasonic noise fun
 
 Component Orders: Based on the research, I ordered key components to start prototyping, including the ultrasonic sensor, light sensor, servo motors, and display screen.
 
+Image of my list of items that I ordered:
+
 <img width="931" alt="Screenshot 2024-11-14 at 13 17 23" src="https://github.com/user-attachments/assets/049daca1-9d84-4f6e-a2c1-25a9530557c6">
 
 
