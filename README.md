@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 11](README.md#week-10-Final-Project-Prep)
+
 [week 10](README.md#week-10-Designing-my-LLM-Project)
 
 [week 9](README.md#week-9-Starting-LLM-Project)
@@ -22,6 +24,42 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+# Week 11: Final Project Prep #
+## Week of 11/07/2024
+
+### What I've done
+
+Research: This week, I focused on identifying the ideal components for a pigeon-deterrent product that can detect pigeons approaching my balcony, emit ultrasonic sounds to deter them, and log the daily pigeon count. My research involved comparing different types of sensors to find the most effective solutions.
+
+Motion Detection Sensors: I compared the LV-EZ1 Maxbotix Ultrasonic Range Finder and Sharp IR distance sensor. Through this, I evaluated the strengths and limitations of ultrasonic vs. infrared detection in outdoor environments, particularly regarding color sensitivity and range.
+
+Light Sensors: To distinguish between day and night for the ultrasonic noise function, I examined various light sensors, ultimately selecting the BH1750 ambient light sensor for its high accuracy in outdoor settings.
+
+Component Orders: Based on the research, I ordered key components to start prototyping, including the ultrasonic sensor, light sensor, servo motors, and display screen.
+
+<img width="931" alt="Screenshot 2024-11-14 at 13 17 23" src="https://github.com/user-attachments/assets/049daca1-9d84-4f6e-a2c1-25a9530557c6">
+
+
+### Reflections
+
+Reflecting on the research process, I found that each component choice involved balancing simplicity with functionality. The ultrasonic sensor stood out for its ability to detect pigeons without being influenced by color or light, which could make it more reliable than other sensors like IR. However, I also considered that ultrasonic sensors might be sensitive to environmental conditions like temperature or wind, which could affect their performance. Choosing the BH1750 ambient light sensor over a simpler photocell also reflected a focus on accuracy—by distinguishing day from night precisely, the product could avoid false triggers, especially around dawn or dusk. I think these decisions will help create a more stable and responsive product, even if it adds slight complexity to the setup.
+
+Another reflection is on the overall setup’s user experience. My goal is for the product to operate autonomously without much user intervention, and this week’s component choices aligned well with that vision. I want to design a system that feels smart enough to adapt to its environment and carry out its functions smoothly, which has guided my focus on more precise, reliable components.
+
+Here's a diagram for considering design for a small electronic item:
+
+![image](https://github.com/user-attachments/assets/49b370da-eb6d-4b05-b6e5-1fc34f750173)
+
+
+### Speculations
+
+Looking ahead, I have several speculations about how these components will perform together and the adjustments that might be needed. For instance, I’m curious about the ultrasonic sound's effectiveness in actually deterring pigeons. Although ultrasonic frequencies are often recommended for pest control, pigeons may react differently, so I anticipate experimenting with a range of frequencies to find the most effective deterrent.
+
+Another speculation involves the complexity of integration. Combining real-time data from sensors with motor controls and sound emission could present challenges, especially in managing timing and power needs for each action. I may need to test various microcontroller configurations to ensure the system runs smoothly without lag.
+
+Additionally, I’m considering the possibility of future enhancements, such as remote monitoring to track pigeon counts or even adjust settings via a smartphone. If the initial prototype works well, adding a cloud component could offer even greater value by allowing users to check status or make adjustments on the go.
 
 --- 
 # Week 10: Designing my LLM Project #
