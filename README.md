@@ -3,7 +3,9 @@ Welcome to my new GitHub repository!
 
 # Outline
 
-[week 11](README.md#week-10-Final-Project-Prep)
+[week 12](README.md#week-12-AblePay-Project)
+
+[week 11](README.md#week-11-Final-Project-Prep)
 
 [week 10](README.md#week-10-Designing-my-LLM-Project)
 
@@ -24,6 +26,12 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+# Week 12: AblePay Project #
+## Week of 11/14/2024
+
+### What I've done
 
 ---
 # Week 11: Final Project Prep #
