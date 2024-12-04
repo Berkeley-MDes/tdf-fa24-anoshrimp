@@ -33,6 +33,36 @@ Welcome to my new GitHub repository!
 
 ### What I've done
 
+This week, I focused on advancing the design and research components of the credit card microcontroller project. Specifically:
+Prototyping: I explored different microcontroller options, comparing their size, power consumption, and compatibility with OLED screens. I settled on one that balances functionality and portability.
+Researching Accessibility Features: I delved into the needs of individuals with limited hand mobility, examining existing assistive technologies to inform the design. This included brainstorming how Braille overlays and tactile feedback could be effectively integrated.
+Developing Feedback Mechanisms: I began outlining vibration patterns and their corresponding states, such as CVV updates or payment confirmations.
+Proximity Detection Experimentation: I tested basic proximity sensors to determine their feasibility for auto-deactivating the CVV display when the card moves beyond a specified range from the user’s phone.
+
+<img width="518" alt="Screenshot 2024-12-03 at 21 49 39" src="https://github.com/user-attachments/assets/d2124f33-cea4-45ce-a7d6-1da76f2ecc4d">
+
+<img width="518" alt="TDF final (1)" src="https://github.com/user-attachments/assets/05e1c700-2d70-462c-9890-40807e2a9e52">
+
+![Frame 1 (2)](https://github.com/user-attachments/assets/f5f15119-1fac-4d89-979c-d3fd80ff1d21)
+
+
+### Reflection
+
+This week has been a balance of technical and empathetic design thinking. I’ve made significant progress in selecting components, but it’s clear that combining functionality with accessibility is a complex challenge. Prototyping helped clarify technical constraints, but it also underscored the need for further testing with real users to ensure the design serves its intended audience effectively.
+
+I also noticed the importance of iterative design—initial ideas for the Braille overlay felt static and disconnected from the digital feedback mechanisms. This reinforced the need to align tactile and auditory feedback for a seamless user experience. Finally, testing proximity sensors highlighted potential issues with sensitivity and range, which I’ll need to refine.
+
+### Speculations
+
+Looking ahead, I anticipate needing to tackle a few key challenges:
+
+Accessibility-Driven Iterations: While I’ve identified potential solutions, such as vibration feedback and Braille overlays, I suspect user testing will reveal unexpected accessibility barriers. I plan to recruit participants with diverse needs for usability testing soon.
+Integration Complexity: Merging the OLED display, microcontroller, and feedback mechanisms into a compact, seamless design will require creative problem-solving. I might explore modular designs as a way to simplify integration.
+Proximity Sensor Calibration: I need to experiment further with proximity-based deactivation to ensure it’s reliable in real-world settings. This might involve testing different sensor technologies or adjusting thresholds dynamically based on user feedback.
+
+By the end of next week, I aim to finalize the hardware prototype and conduct initial testing to validate my design choices. This will set the stage for refining both the technical and experiential aspects of the product.
+
+
 ---
 # Week 11: Final Project Prep #
 ## Week of 11/07/2024
