@@ -3,6 +3,8 @@ Welcome to my new GitHub repository!
 
 # Outline
 
+[week 13](README.md#week-12-Final)
+
 [week 12](README.md#week-12-AblePay-Project)
 
 [week 11](README.md#week-11-Final-Project-Prep)
@@ -26,6 +28,31 @@ Welcome to my new GitHub repository!
 [week 2](README.md#week-2-Trying-Rhino-and-grasshopper)
 
 [week 1](README.md#week-1-Intro-to-TDF)
+
+---
+
+# Week 13: Final #
+## Week of 11/21/2024
+
+### What I've done
+
+This week, I worked on integrating a MAX4466 microphone with a Particle Photon 2 to capture audio data, convert it into a WAV file, and process it for keyword detection. I faced challenges in achieving precise sampling rates, addressing noisy outputs, and ensuring the hardware and software systems worked seamlessly. After refining my approach, I successfully captured audio, transmitted data to a Node.js server, and normalized the output. Although the keyword detection implementation is still in progress, I have built a robust foundation for further development.
+
+Here are some documentations:
+
+![process](https://github.com/user-attachments/assets/cf79f6cc-c546-4fc2-a2f7-92c2654e000e)
+
+<img width="1104" alt="TDF final 20 34 24" src="https://github.com/user-attachments/assets/69671c35-1068-4b85-978d-75c25659248b">
+
+<img width="1057" alt="Screenshot 2024-12-09 at 11 47 12" src="https://github.com/user-attachments/assets/58c2be38-8d12-4b89-b648-00681add3c63">
+
+
+### Reflection
+
+This project highlighted the complexities of working with resource-constrained hardware and the importance of iterative problem-solving. Debugging noisy data required me to reconsider assumptions about hardware limitations and data processing. I learned the value of balancing technical constraints with creative problem-solving, which improved both my technical and design-thinking skills.
+
+### Speculation
+Looking ahead, this project opens doors to exploring more advanced AI-driven keyword detection and integrating cloud-based systems for real-time processing. As cultural expectations lean toward seamless human-machine interactions, this system could evolve into a modular solution for voice-controlled devices or assistive technologies, shaping future human experiences in digital ecosystems.
 
 ---
 # Week 12: AblePay Project #
