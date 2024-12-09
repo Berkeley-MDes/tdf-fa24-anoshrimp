@@ -42,8 +42,6 @@ Here are some documentations:
 
 ![process](https://github.com/user-attachments/assets/cf79f6cc-c546-4fc2-a2f7-92c2654e000e)
 
-<img width="1104" alt="TDF final 20 34 24" src="https://github.com/user-attachments/assets/69671c35-1068-4b85-978d-75c25659248b">
-
 <img width="1057" alt="Screenshot 2024-12-09 at 11 47 12" src="https://github.com/user-attachments/assets/58c2be38-8d12-4b89-b648-00681add3c63">
 
 
@@ -69,8 +67,6 @@ Proximity Detection Experimentation: I tested basic proximity sensors to determi
 <img width="518" alt="Screenshot 2024-12-03 at 21 49 39" src="https://github.com/user-attachments/assets/d2124f33-cea4-45ce-a7d6-1da76f2ecc4d">
 
 <img width="518" alt="TDF final (1)" src="https://github.com/user-attachments/assets/05e1c700-2d70-462c-9890-40807e2a9e52">
-
-![Frame 1 (2)](https://github.com/user-attachments/assets/f5f15119-1fac-4d89-979c-d3fd80ff1d21)
 
 
 ### Reflection
